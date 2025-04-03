@@ -1,2 +1,2 @@
 soma = 2 + 2
-print("Soma")
+print("soma")
