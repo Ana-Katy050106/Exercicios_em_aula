@@ -1,2 +1,2 @@
-soma = 2 + 3
-print("soma")
+soma = 2 + 2
+print("Soma")
